@@ -1,4 +1,4 @@
-/* ejercicio 2  Dado el sueldo de un empleado imprimir en una alerta el nuevo sueldo del empleado si tuvo un aumneto del 10%
+/* ejercicio 2  Dado el sueldoo de un empleado imprimir en una alerta el nuevo sueldo del empleado si tuvo un aumneto del 10%
 
 let sueldo = prompt("ingrese el valor del sueldo");
 let psueldo = 10/100;
